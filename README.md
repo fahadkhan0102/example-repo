@@ -1,4 +1,5 @@
 # example-repo
 
-A sample description 
-started using and learning git from 0 
+A sample description .
+
+i had started using and learning git from 0 
